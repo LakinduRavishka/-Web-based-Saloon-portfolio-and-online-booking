@@ -13,7 +13,7 @@ The design is inspired by the salon’s brand colors and aims to provide an eleg
 - Contact page with location and inquiry options  
 
 ## Technologies
-- HTML, CSS, JavaScript (or React/Bootstrap if you used them)  
+- HTML, CSS, JavaScript, PHP, and Bootstrap
 - Responsive design for mobile and desktop  
 
 ---
